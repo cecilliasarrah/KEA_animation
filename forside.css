@@ -1,0 +1,30 @@
+#game_background {
+    background-image: url("forside.svg");
+    background-size: cover;
+    width: 80vw;
+    height: 140vw;
+    margin: auto;
+    display: none;
+}
+
+#forside_play {
+    background-image: url("forside_play.svg");
+    background-size: 100%;
+    width: 18vw;
+    height: 16.1vw;
+    position: absolute;
+    right: 51vw;
+    top: 126vw;
+    display: none;
+}
+
+#forside_settings {
+    background-image: url("forside_settings.svg");
+    background-size: 100%;
+    width: 18vw;
+    height: 16.1vw;
+    position: absolute;
+    right: 30vw;
+    top: 126vw;
+    display: none;
+}

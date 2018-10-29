@@ -1,0 +1,52 @@
+#game_background {
+    background-image: url("settings_baggrund.svg");
+    background-size: cover;
+    width: 80vw;
+    height: 140vw;
+    margin: auto;
+    display: none;
+}
+
+#settings_overskrift {
+    background-image: url("settings_overskrift.svg");
+    background-size: 100%;
+    width: 68vw;
+    height: 24vw;
+    position: absolute;
+    right: 16vw;
+    top: 13vw;
+    display: none;
+}
+
+#home_settings {
+    background-image: url("home_settings.svg");
+    background-size: 99%;
+    width: 40vw;
+    height: 20vw;
+    position: absolute;
+    right: 29vw;
+    top: 40vw;
+    display: none;
+}
+
+#play_settings {
+    background-image: url("play_settings.svg");
+    background-size: 99%;
+    width: 39vw;
+    height: 20vw;
+    position: absolute;
+    right: 30vw;
+    top: 53vw;
+    display: none;
+}
+
+#musik_settings {
+    background-image: url("music_settings.svg");
+    background-size: 99%;
+    width: 39vw;
+    height: 20vw;
+    position: absolute;
+    right: 30vw;
+    top: 70vw;
+    display: none;
+}

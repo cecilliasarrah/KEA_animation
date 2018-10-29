@@ -1,0 +1,53 @@
+#levelcomplete_baggrund {
+    background-image: url("levelcomplete_baggrund.svg");
+    background-size: cover;
+    width: 80vw;
+    height: 140vw;
+    margin: auto;
+    display: none;
+
+}
+
+#levelcomplete_forgrund {
+    background-image: url("levelcomplete_forgrund.svg");
+    background-size: 106%;
+    width: 84vw;
+    height: 110vw;
+    position: absolute;
+    right: 10.5vw;
+    top: -10vw;
+    display: none;
+}
+
+#levelcomplete_tekst {
+    background-image: url("levelcomplete_tekst.svg");
+    background-size: 100%;
+    width: 84vw;
+    height: 20vw;
+    position: absolute;
+    right: 6vw;
+    top: 44vw;
+    display: none;
+}
+
+#levelcomplete_abe {
+    background-image: url("levelcomplete_abe.svg");
+    background-size: 97%;
+    width: 50vw;
+    height: 40vw;
+    position: absolute;
+    right: 23vw;
+    top: 54vw;
+    display: none;
+}
+
+#play_again {
+    background-image: url("play_again.svg");
+    background-size: 100%;
+    width: 20vw;
+    height: 14vw;
+    position: absolute;
+    right: 39vw;
+    top: 87vw;
+    display: none;
+}

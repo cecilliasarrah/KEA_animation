@@ -1,0 +1,52 @@
+#gameover_baggrund {
+    background-image: url("gameover_baggrund.svg");
+    background-size: cover;
+    width: 80vw;
+    height: 140vw;
+    margin: auto;
+    display: none;
+}
+
+#gameover_forgrund {
+    background-image: url("gameover_forgrund.svg");
+    background-size: 106%;
+    width: 84vw;
+    height: 110vw;
+    position: absolute;
+    right: 10.5vw;
+    top: -10vw;
+    display: none;
+}
+
+#gameover_tekst {
+    background-image: url("gameover_tekst.svg");
+    background-size: 110%;
+    width: 84vw;
+    height: 20vw;
+    position: absolute;
+    right: 10.5vw;
+    top: 40vw;
+    display: none;
+}
+
+#gameover_abe {
+    background-image: url("gameover_abe.svg");
+    background-size: 97%;
+    width: 50vw;
+    height: 40vw;
+    position: absolute;
+    right: 23vw;
+    top: 52vw;
+    display: none;
+}
+
+#try_again {
+    background-image: url("try_again.svg");
+    background-size: 100%;
+    width: 20vw;
+    height: 14vw;
+    position: absolute;
+    right: 39vw;
+    top: 87vw;
+    display: none;
+}
